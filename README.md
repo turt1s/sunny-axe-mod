@@ -15,7 +15,7 @@ A small foraging based Minecraft mod, adding an axe, a special item to craft it,
 3. Download fabric api for 1.21
 4. Place both jars in your minecraft mods folder (win+r key --> .minecraft --> mods), if there isn't a mods folder, create a folder in .minecraft and rename it to "mods"
 5. Remember to use the fabric 1.21 installation
-<img width="739" height="55" alt="image" src="https://github.com/user-attachments/assets/aa0628db-f3d9-4a74-bc3f-c705e64d3ca2" />   
+<img width="739" height="55" alt="image" src="https://github.com/user-attachments/assets/aa0628db-f3d9-4a74-bc3f-c705e64d3ca2" />  <br>
 6. Launch!  
 
 ## Features
