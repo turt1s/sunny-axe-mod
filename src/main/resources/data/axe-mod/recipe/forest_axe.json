@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "axe-mod:forest_core"
+    },
+    "+": {
+      "item": "minecraft:netherite_axe"
+    }
+  },
+  "pattern": [
+    "#",
+    "+"
+  ],
+  "result": {
+    "count": 1,
+    "id": "axe-mod:forest_axe"
+  }
+}
